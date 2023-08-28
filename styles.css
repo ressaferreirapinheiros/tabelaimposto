@@ -1,0 +1,61 @@
+.corpo{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+    
+}
+
+.comeco{
+    background-color: rgb(168, 159, 159);
+    color: black;
+    text-align: center;
+    
+}
+
+.meio{
+    background-color: rgb(245, 11, 11);
+    color: black;
+    margin: auto;
+    text-align: center;
+    font-size: 10px;
+    border-radius: 15px;
+    padding: 10px;
+
+    
+}
+
+.tabela{
+    background-color: black;
+    border-color: black;
+    margin: auto;
+    text-align: center;
+    background: 1px;
+    padding: 5px;
+    border-style: 15px;   
+}
+
+th,td {
+    border:1px solid black;
+    padding: 10px;
+    margin: 20px;
+
+}
+
+
+tr:mth-child(even){
+    background-color: aliceblue;
+    margin: 20px;
+}
+
+.fim{
+    background-color:rgba(10, 1, 1, 0.842);
+    color: black;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+
